@@ -1,0 +1,22 @@
+.group-members {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .group-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 50%;
+  }
+  
